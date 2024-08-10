@@ -1,2 +1,2 @@
 # MSc-Thesis-Python-Code
-Python code used in the simulation study of my Master Mathematics Thesis
+This is a private Github repository, containing the Python files that have been used to produce the simulation results in my Master Mathematics Thesis
